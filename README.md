@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lynguyenngocduy123@gmail.com**
 
-## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
+<h2 align="center">Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></h2>
 
 <a href="https://www.facebook.com/hanakura.tomo" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 <a href="https://www.linkedin.com/in/duy-l%C3%BD-nguy%E1%BB%85n-ng%E1%BB%8Dc-294700331/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-47aeef?style=for-the-badge&logo=inspire&logoColor=white" alt="linkedin"/></a>
@@ -55,18 +55,25 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="ngocduy">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyduy244&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="ngocduy">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=lyduy244&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyduy244&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyduy244&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lyduy244&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyduy244&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lyduy244&theme=vue)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lyduy244&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <br>
+
 <h2 align="center">📑 My Favorites Quote 📑</h2>
+
 <br>
-<a href="#" target="_blank">
-  <img src="svg/ngocduy-quotes.svg" width="846" height="150" alt="Ngoc Duy" />
+
+<a align="center" href="#" target="_blank">
+  <img align="center" src="svg/ngocduy-quotes.svg" width="846" height="150" alt="Ngoc Duy" />
 </a>
